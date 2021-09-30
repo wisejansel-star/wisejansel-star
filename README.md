@@ -4,6 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisejansel-star&show_icons=true&theme=synthwave&count_private=true)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wisejansel_star)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
